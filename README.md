@@ -87,7 +87,7 @@ npm run dev
 The app will run on:
 
 ```
-http://localhost:5173
+https://dog-studio-13.onrender.com
 ```
 
 ---
